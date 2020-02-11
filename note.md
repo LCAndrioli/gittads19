@@ -16,3 +16,4 @@ git log -> ?
 
 git add DOC
 git commit -m "comentario do DOC"
+git push -u origin master
